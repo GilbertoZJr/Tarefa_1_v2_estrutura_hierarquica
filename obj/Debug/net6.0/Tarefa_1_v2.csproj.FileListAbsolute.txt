@@ -1,0 +1,15 @@
+C:\Users\GilbertoZan\Desktop\Tarefas\Tarefa_1_v2\Tarefa_1_v2\obj\Debug\net6.0\Tarefa_1_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GilbertoZan\Desktop\Tarefas\Tarefa_1_v2\Tarefa_1_v2\obj\Debug\net6.0\Tarefa_1_v2.AssemblyInfoInputs.cache
+C:\Users\GilbertoZan\Desktop\Tarefas\Tarefa_1_v2\Tarefa_1_v2\obj\Debug\net6.0\Tarefa_1_v2.AssemblyInfo.cs
+C:\Users\GilbertoZan\Desktop\Tarefas\Tarefa_1_v2\Tarefa_1_v2\obj\Debug\net6.0\Tarefa_1_v2.csproj.CoreCompileInputs.cache
+C:\Users\GilbertoZan\Desktop\Tarefas\Tarefa_1_v2\Tarefa_1_v2\bin\Debug\net6.0\Tarefa_1_v2.exe
+C:\Users\GilbertoZan\Desktop\Tarefas\Tarefa_1_v2\Tarefa_1_v2\bin\Debug\net6.0\Tarefa_1_v2.deps.json
+C:\Users\GilbertoZan\Desktop\Tarefas\Tarefa_1_v2\Tarefa_1_v2\bin\Debug\net6.0\Tarefa_1_v2.runtimeconfig.json
+C:\Users\GilbertoZan\Desktop\Tarefas\Tarefa_1_v2\Tarefa_1_v2\bin\Debug\net6.0\Tarefa_1_v2.dll
+C:\Users\GilbertoZan\Desktop\Tarefas\Tarefa_1_v2\Tarefa_1_v2\bin\Debug\net6.0\ref\Tarefa_1_v2.dll
+C:\Users\GilbertoZan\Desktop\Tarefas\Tarefa_1_v2\Tarefa_1_v2\bin\Debug\net6.0\Tarefa_1_v2.pdb
+C:\Users\GilbertoZan\Desktop\Tarefas\Tarefa_1_v2\Tarefa_1_v2\obj\Debug\net6.0\Tarefa_1_v2.dll
+C:\Users\GilbertoZan\Desktop\Tarefas\Tarefa_1_v2\Tarefa_1_v2\obj\Debug\net6.0\ref\Tarefa_1_v2.dll
+C:\Users\GilbertoZan\Desktop\Tarefas\Tarefa_1_v2\Tarefa_1_v2\obj\Debug\net6.0\Tarefa_1_v2.pdb
+C:\Users\GilbertoZan\Desktop\Tarefas\Tarefa_1_v2\Tarefa_1_v2\obj\Debug\net6.0\Tarefa_1_v2.genruntimeconfig.cache
+C:\Users\GilbertoZan\Desktop\Tarefas\Tarefa_1_v2\Tarefa_1_v2\obj\Debug\net6.0\Tarefa_1_v2.csproj.AssemblyReference.cache
